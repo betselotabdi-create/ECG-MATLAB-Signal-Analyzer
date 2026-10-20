@@ -94,7 +94,7 @@ Please follow the dataset's access and usage terms. The original dataset files a
 - Compare estimated heart rate with reference values.
 
 ## Author
-Betselot Abdi
+Betselot Abdi-
 Biomedical Engineering student at Addis Ababa University.
 # ECG-MATLAB-Signal-Analyzer
 MATLAB project for ECG signal analysis, noise removal, FFT, and R-peak detection.
